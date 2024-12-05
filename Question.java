@@ -8,7 +8,6 @@ public class Question{
     private String opt4;
     private String answer;
 
-
     //Consturctor
     public Question(int id, String question, String opt1, String opt2, String opt3, String opt4, String answer){
         this.id = id;
